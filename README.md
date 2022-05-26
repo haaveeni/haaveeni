@@ -1,6 +1,4 @@
 ## Welcome to my GitHub Profile! I'm Veridiana. 👋
-<img align="center" alt="Veri-gif" height="160" width="160" src="https://im.ezgif.com/tmp/ezgif-1-2fd29235e9.gif">
-
 
 - 💻 I’m currently working on Front-End development for Queima Diária 🔥
 - 📊 I’m currently learning PosgreSQL.
