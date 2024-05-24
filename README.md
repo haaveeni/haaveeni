@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Profile! I'm Veridiana. 👋
 
-- 💻 I’m currently working on Front-End development for Queima Diária 🔥
+- 💻  🔥
 - 📊 I’m currently learning PosgreSQL.
 - 🏠 Living in: São Paulo/SP - Brazil
 - 😄 Pronouns: she/her
