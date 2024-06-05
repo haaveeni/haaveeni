@@ -3,7 +3,6 @@
 - 💻  🔥
 - 📊 I’m currently learning PosgreSQL.
 - 🏠 Living in: São Paulo/SP - Brazil
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love bike, rappel, camping, kayak.
 
 ## Stacks and tools
