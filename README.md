@@ -1,7 +1,7 @@
 # Bem vindo ao meu GitHub! 👋
 - 👩🏻 Veridiana Lucena de Marchi
 - 💻 Desenvolvedora Front-End
-- 🏠 São Paulo/SP - Brasil
+- 🏠 São Paulo/SP - Brasil 🇧🇷
 
 ## Experiência Profissional
 - 💻 [Março/2022 - Setembro/2022] Full-Stack Developer Junior na Queima Diária (grupo SmartFit)
@@ -16,6 +16,11 @@
 ### Ferramentas e ambientes
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" /> <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 ## Desenvolvimento Front End
-<a href = "https://github.com/haaveeni"><img align="center" alt="Veri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-<a href = "https://github.com/haaveeni"><img align="center" alt="Veri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-<a href = "https://github.com/haaveeni"><img align="center" alt="Veri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+<a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+<a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+<a href = "https://legacy.reactjs.org/docs/getting-started.html"><img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+<br>
+<a href = "https://v2.tailwindcss.com/docs"><img align="center" alt="TailWindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></a>
+
+
