@@ -19,8 +19,9 @@
 <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+<a href = "[https://v2.tailwindcss.com/docs](https://www.typescriptlang.org/docs/)"><img align="center" alt="TipeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
 <a href = "https://legacy.reactjs.org/docs/getting-started.html"><img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-<a href = "https://v2.tailwindcss.com/docs"><img align="center" alt="TailWindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
+
 <br>
 <a href = "https://v2.tailwindcss.com/docs"><img align="center" alt="TailWindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></a>
 
