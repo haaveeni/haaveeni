@@ -5,7 +5,7 @@
 
 ## Experiência Profissional
 - 💻 [Março/2022 - Setembro/2022] Full-Stack Developer Junior na Queima Diária (grupo SmartFit)
-- 🎗️ [2023 a 2024] Pausa na Carreira pra Tratamento de Câncer
+- 🎗️ [2023 a 2024] Pausa na Carreira pra travar uma batalha contra o Câncer, onde saí vitoriosa! 🏆
 - 📚 [Abril/2024 - Até o momento] Estudando pra voltar pro mercado de trabalho! 
 
 ## Contatos
