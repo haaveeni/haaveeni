@@ -3,6 +3,13 @@
 - 💻 Desenvolvedora Front-End
 - 🏠 São Paulo/SP - Brasil 🇧🇷
 
+## Prezo por
+- código limpo
+- commits incrementais
+- refatoração
+- responsividade
+- kanban
+
 ## Experiência Profissional
 - 💻 [Março/2022 - Setembro/2022] Full-Stack Developer Junior na Queima Diária (grupo SmartFit)
 - 🎗️ [2023 a 2024] Pausa na Carreira pra travar uma batalha contra o Câncer, onde saí vitoriosa! 🏆
