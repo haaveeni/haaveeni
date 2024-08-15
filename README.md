@@ -1,7 +1,7 @@
 # Bem vindo ao meu GitHub! 👋
-- 👩🏻 Veridiana Lucena de Marchi
-- 💻 Desenvolvedora Front-End
-- 🏠 São Paulo/SP - Brasil 🇧🇷
+👩🏻 Veridiana Lucena de Marchi
+💻 Desenvolvedora Front-End
+🏠 São Paulo/SP - Brasil 🇧🇷
 
 ## Prezo por
 - código limpo
