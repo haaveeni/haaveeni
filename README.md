@@ -3,17 +3,34 @@
 💻 Desenvolvedora Front-End<br/>
 🏠 São Paulo/SP - Brasil 🇧🇷
 
-## Prezo por
-- código limpo
-- commits incrementais
-- refatoração
-- responsividade
-- kanban
+Desenvolvedora Front-End apaixonada por criar interfaces intuitivas e responsivas, proporcionando a melhor experiência ao usuário. Graduada em Análise e Desenvolvimento de Sistemas, aproveitei minha transição de carreira para mergulhar de cabeça no mundo da programação. Com sólidos conhecimentos em HTML, CSS, JavaScript, React, Figma, Jira, Confluence, Slack, Git, GitHub, além de experiência prática em metodologias ágeis como Scrum e Kanban, estou em constante aprendizado para aprimorar minhas habilidades e me manter atualizada com as novas tecnologias.
+
+Tive a oportunidade de atuar como Desenvolvedora Júnior no grupo SmartFit, onde trabalhei na sustentação de sites e desenvolvi features. 
+
+Recentemente, passei por um tratamento de câncer, o que reforçou ainda mais minha resiliência e determinação.
+
+Busco uma oportunidade como Desenvolvedora Front-End Júnior, onde eu possa aplicar e expandir minhas habilidades. Meu objetivo é contribuir para o desenvolvimento de interfaces modernas e responsivas, proporcionando uma excelente experiência ao usuário. Estou comprometida com o aprendizado contínuo e aberta a explorar novas tecnologias e metodologias que agreguem valor ao time e ao produto final. Desejo crescer em um ambiente colaborativo que valorize a qualidade de código, inovação e trabalho em equipe.
+
+Prezo por código limpo, commits incrementais, refatoração, responsividade, kanban.
 
 ## Experiência Profissional
-- 💻 [Março/2022 - Setembro/2022] Full-Stack Developer Junior na Queima Diária (grupo SmartFit)
+- 💻 [Março/2022 - Setembro/2022] Full-Stack Developer Junior no Grupo SMARTFIT (Queima Diária)
 - 🎗️ [2023 a 2024] Pausa na Carreira pra travar uma batalha contra o Câncer, onde saí vitoriosa! 🏆
-- 📚 [Abril/2024 - Até o momento] Estudando pra voltar pro mercado de trabalho! 
+- 📚 [Abril/2024 - Até o momento] Freelancer e estudando pra voltar pro mercado de trabalho!
+
+## Graduação
+- 💻 Análise e Desenvolvimento de Sistemas - UNIP - Janeiro/2020 a Dezembro/2021
+
+## Cursos
+- 💻 React - Ada Tech
+- 💻 JavaScript - Professor Gustavo Guanabara
+- 💻 FrontEnd - Ada Tech
+- 💻 Site Responsivo - Progra{Maria}
+- 💻 HTML5 e CSS3 - Alura
+- 💻 Projetos ágeis com Scrum - DIO
+- 💻 Git e GitHub - DIO
+- 💻 Responsividade e experiência do usuário - DIO
+- 💻 Lógica de Programação - DIO
 
 ## Contatos
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-VeridianaLucena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veridiana-lucena/)](https://www.linkedin.com/in/veridiana-lucena/)
