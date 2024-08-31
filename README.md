@@ -3,16 +3,6 @@
 💻 Desenvolvedora Front-End<br/>
 🏠 São Paulo/SP - Brasil 🇧🇷
 
-Desenvolvedora Front-End apaixonada por criar interfaces intuitivas e responsivas, proporcionando a melhor experiência ao usuário. Graduada em Análise e Desenvolvimento de Sistemas, aproveitei minha transição de carreira para mergulhar de cabeça no mundo da programação. Com sólidos conhecimentos em HTML, CSS, JavaScript, React, Figma, Jira, Confluence, Slack, Git, GitHub, além de experiência prática em metodologias ágeis como Scrum e Kanban, estou em constante aprendizado para aprimorar minhas habilidades e me manter atualizada com as novas tecnologias.
-
-Tive a oportunidade de atuar como Desenvolvedora Júnior no grupo SmartFit, onde trabalhei na sustentação de sites e desenvolvi features. 
-
-Recentemente, passei por um tratamento de câncer, o que reforçou ainda mais minha resiliência e determinação.
-
-Busco uma oportunidade como Desenvolvedora Front-End Júnior, onde eu possa aplicar e expandir minhas habilidades. Meu objetivo é contribuir para o desenvolvimento de interfaces modernas e responsivas, proporcionando uma excelente experiência ao usuário. Estou comprometida com o aprendizado contínuo e aberta a explorar novas tecnologias e metodologias que agreguem valor ao time e ao produto final. Desejo crescer em um ambiente colaborativo que valorize a qualidade de código, inovação e trabalho em equipe.
-
-Prezo por código limpo, commits incrementais, refatoração, responsividade, kanban.
-
 ## Experiência Profissional
 - 💻 [Março/2022 - Setembro/2022] Full-Stack Developer Junior no Grupo SMARTFIT (Queima Diária)
 - 🎗️ [2023 a 2024] Pausa na Carreira pra travar uma batalha contra o Câncer, onde saí vitoriosa! 🏆
