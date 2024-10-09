@@ -1,12 +1,14 @@
 # Bem vindo ao meu GitHub! 👋
 👩🏻 Veridiana Lucena de Marchi<br/>
 💻 Desenvolvedora Front-End<br/>
-🏠 São Paulo/SP - Brasil 🇧🇷
+🏠 São Paulo/SP - Brasil 🇧🇷<br/>
+🏢 Prime Control<br/>
 
 ## Experiência Profissional
-- 💻 [Março/2022 - Setembro/2022] Full-Stack Developer Junior no Grupo SMARTFIT (Queima Diária)
+- 🏢 [Outubro/2024 - Até o momento] Auxiliar de TI na Prime Control
+- 📚 [Abril/2024 - Setembro/2024] Freelancer e estudando pra voltar pro mercado de trabalho!
 - 🎗️ [2023 a 2024] Pausa na Carreira pra travar uma batalha contra o Câncer, onde saí vitoriosa! 🏆
-- 📚 [Abril/2024 - Até o momento] Freelancer e estudando pra voltar pro mercado de trabalho!
+- 💻 [Março/2022 - Setembro/2022] Full-Stack Developer Junior no Grupo SMARTFIT (Queima Diária)
 
 ## Graduação
 - 💻 Análise e Desenvolvimento de Sistemas - UNIP - Janeiro/2020 a Dezembro/2021
