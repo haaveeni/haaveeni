@@ -5,7 +5,7 @@
 🏢 Prime Control<br/>
 
 ## Experiência Profissional
-- 🏢 [Outubro/2024 - Até o momento] Auxiliar de TI na Prime Control
+- 🏢 [Outubro/2024 - Até o momento] Desenvolvedora FrontEnd na Prime Control
 - 📚 [Abril/2024 - Setembro/2024] Freelancer e estudando pra voltar pro mercado de trabalho!
 - 🎗️ [2023 a 2024] Pausa na Carreira pra travar uma batalha contra o Câncer, onde saí vitoriosa! 🏆
 - 💻 [Março/2022 - Setembro/2022] Full-Stack Developer Junior no Grupo SMARTFIT (Queima Diária)
