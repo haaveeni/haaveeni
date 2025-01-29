@@ -2,7 +2,7 @@
 👩🏻 Veridiana Lucena de Marchi<br/>
 💻 Desenvolvedora Front-End<br/>
 🏠 São Paulo/SP - Brasil 🇧🇷<br/>
-🏢 Prime Control<br/>
+🏢 Prime Control (com BitBucket) <br/>
 
 ## Experiência Profissional
 - 🏢 [Outubro/2024 - Até o momento] Desenvolvedora FrontEnd na Prime Control
